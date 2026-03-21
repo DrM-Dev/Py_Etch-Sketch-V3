@@ -8,7 +8,7 @@ controls:
 
 2-[R] to Pick Color
 
-3-[P] to Draw\n"
+3-[P] to Draw
 
 4-[Shift] & [-] or [+] "to Change Pen size
 
