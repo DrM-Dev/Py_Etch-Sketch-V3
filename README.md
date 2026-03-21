@@ -5,11 +5,19 @@ controls:
 [H] you can access this note by pressing
 |
 1-[W,A,S,D]/[Arrows] to Move
+
 2-[R] to Pick Color
+
 3-[P] to Draw\n"
+
 4-[Shift] & [-] or [+] "to Change Pen size
+
 5-[Q] to change background color
+
 6-[Z] to Undo
+
 7-[C] to Clear
+
 8-[E] to Erase
+
 9-[Esc] to Exit
