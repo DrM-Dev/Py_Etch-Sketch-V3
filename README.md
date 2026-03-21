@@ -4,12 +4,12 @@ https://drive.google.com/drive/folders/1Z-uUPyf9PAUvPJYdO8wnia5DxKUl2kZA?usp=sha
 controls:
 [H] you can access this note by pressing
 |
--[W,A,S,D]/[Arrows] to Move
--[R] to Pick Color
--[P] to Draw\n"
--[Shift] & [-] or [+] "to Change Pen size
--[Q] to change background color
--[Z] to Undo
--[C] to Clear
--[E] to Erase
--[Esc] to Exit
+1-[W,A,S,D]/[Arrows] to Move
+2-[R] to Pick Color
+3-[P] to Draw\n"
+4-[Shift] & [-] or [+] "to Change Pen size
+5-[Q] to change background color
+6-[Z] to Undo
+7-[C] to Clear
+8-[E] to Erase
+9-[Esc] to Exit
