@@ -1,8 +1,10 @@
 **Py_Etch-Sketch-V3**
 
+note:
 full program in this google-drive link [I'm using a drive link to allow friends who never used github to access my project] xD
 https://drive.google.com/drive/folders/1Z-uUPyf9PAUvPJYdO8wnia5DxKUl2kZA?usp=sharing
 
+______________________________________
 controls:
 [H] you can access this note by pressing
 |
